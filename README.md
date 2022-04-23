@@ -1,4 +1,4 @@
-# CompSci-Web-Calculator
+# Binary-Web-Calculator
 A web calculator for binary numbers built in TypeScript using React.js.  
 Can convert decimal to binary, and binary to decimal.  
 Can encode 8 bits of data with 4 bits of Hamming code.  

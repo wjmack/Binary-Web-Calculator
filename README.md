@@ -1,4 +1,5 @@
 # Binary Web Calculator
+<img src="https://github.com/wjmack/Binary-Web-Calculator/blob/main/webcalc.png" width=300/>
 **Description**  
 A web calculator for binary numbers built in TypeScript using React.js.  
 Can convert decimal to binary, and binary to decimal.  

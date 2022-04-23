@@ -7,7 +7,8 @@ Can convert floating point numbers into their respective 14-bit IEEE representat
 
 **How to Use**  
 See a working version hosted on Repl.it <a href="https://cs2520-web-calc.wjmackinnon.repl.co/">here</a>.
-Use the keyboard, or the digital keypad to input values. Use the drop-down menu to change operations.  
+Use the keyboard, or the digital keypad to input values.  
+Use the drop-down menu to change operations.  
 If the number outputted by the calculator is larger than the output display, hover the mouse over the display to enable overflow scrolling  
 
 **Known Issues**  

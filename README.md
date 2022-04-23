@@ -15,5 +15,5 @@ If the number outputted by the calculator is larger than the output display, hov
 Rare crashes may occur when trying to convert some floats to binary in 14-bit IEEE representation.
 
 
-**Note**
-Find the majority of backend and frontend code at <a href="https://github.com/wjmack/Binary-Web-Calculator/blob/main/src/App.tsx">src/App.tsx</a>
+**Note**  
+Find the majority of backend and frontend code at <a href="https://github.com/wjmack/Binary-Web-Calculator/blob/main/src/App.tsx">src/App.tsx</a>.
